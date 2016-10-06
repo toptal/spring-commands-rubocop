@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = 'spring-commands-rubocop'
-  spec.version       = '0.1.0'
+  spec.version       = '0.2.0'
   spec.author        = 'Alex Rodionov'
   spec.email         = 'p0deje@gmail.com'
   spec.description   = 'RuboCop command for Spring'
